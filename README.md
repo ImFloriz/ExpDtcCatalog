@@ -7,8 +7,11 @@ i may or may not update this
 | # | Product      | Last detection | Detectable | Method       |
 | - | ------------ | -------------- | ---------- | ------------ |
 | 1 | Solara       | 16/04/2025     | ✓          | Instance     |
-| 2 | Swift        | 16/04/2025     | ✓          | GC (mid)     |
-| 3 | Xeno         | -              | ?          | -            |
+| 2 | Swift        | 16/04/2025     | ✓          | GC           |
+| 3 | Zenith       | 16/04/2025     | ✓          | GC           |
+| 4 | Xeno         | -              | ?          | -            |
+| 5 | Visual       | -              | ?          | -            |
+| 6 | AWP.GG       | -              | ?          | -            |
 
 # Scripts
 | # | Script       | Last detection | Detectable |
