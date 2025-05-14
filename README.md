@@ -12,6 +12,7 @@ i may or may not update this
 | 4 | Xeno         | -              | ?          | -            |
 | 5 | Visual       | -              | ?          | -            |
 | 6 | AWP.GG       | -              | ?          | -            |
+| 7 | Evon         | ?              | ✓          | Output 💔   |
 
 # Scripts
 | # | Script       | Last detection | Detectable |
