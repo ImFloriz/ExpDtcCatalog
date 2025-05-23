@@ -1,5 +1,5 @@
 # ExpDtcCatalog
-A small list of ROBLOX exploit detections that I find
+A small list of ROBLOX exploit detections
 
 i may or may not update this
 
@@ -10,11 +10,6 @@ i may or may not update this
 | 2 | Swift        | 16/04/2025     | ✓          | GC           |
 | 3 | Zenith       | 16/04/2025     | ✓          | GC           |
 | 4 | Xeno         | -              | ?          | -            |
-| 5 | Visual       | -              | ?          | -            |
+| 5 | Visual       | release?       | ✓          | Function     |
 | 6 | AWP.GG       | -              | ?          | -            |
-| 7 | Evon         | ?              | ✓          | Output 💔   |
-
-# Scripts
-| # | Script       | Last detection | Detectable |
-| - | ------------ | -------------- | ---------- |
-| 1 | -            | -              | ✓          |
+| 7 | Evon         | -              | ✓          | Output 💔   |
