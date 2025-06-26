@@ -1,8 +1,3 @@
-# ExpDtcCatalog
-A small list of ROBLOX exploit detections
-
-i may or may not update this
-
 # Exploits
 | # | Product      | Last detection | Detectable | Method       |
 | - | ------------ | -------------- | ---------- | ------------ |
@@ -10,7 +5,7 @@ i may or may not update this
 | 2 | Swift        | 16/04/2025     | no         | -            |
 | 3 | Zenith       | 16/04/2025     | yes        | GC           |
 | 4 | Xeno         | -              | ?          | -            |
-| 5 | bunni.lol    | -              | yes        | Function     |
+| 5 | bunni.lol    | 25/06/2025     | no         | -            |
 | 6 | Evon         | -              | yes        | Output       |
 | 7 | Delta        | -              | yes        | 🤫           |
 | 8 | Codex        | -              | yes        | 🤫           |
